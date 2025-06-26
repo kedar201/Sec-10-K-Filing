@@ -1,9 +1,0 @@
-# Go inside your repo folder
-cd your-repo
-
-# Remove Git history
-rm -rf .git
-git init
-git remote add origin https://github.com/your-username/your-repo.git
-git commit --allow-empty -m "Initial commit"
-git push -f origin main
