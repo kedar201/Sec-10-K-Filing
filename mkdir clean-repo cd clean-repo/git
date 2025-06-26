@@ -1,5 +1,0 @@
-git init
-git remote add origin https://github.com/kedar201/Sec-10-K-Filing
-git commit --allow-empty -m "Initial clean commit"
-git push -f origin main
-git push -f origin master
